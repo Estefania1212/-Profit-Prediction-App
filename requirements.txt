@@ -117,6 +117,7 @@ plotly==5.13.0
 plotly-express==0.4.1
 pluggy==0.13.1
 praw==7.7.0
+pip==24.0
 
 
 pytest==5.4.3
@@ -137,8 +138,7 @@ tensorboard==2.12.0
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==2.12.0
-tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0
-tensorflow-io-gcs-filesystem==0.30.0
+
+
 
 
